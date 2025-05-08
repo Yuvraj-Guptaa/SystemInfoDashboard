@@ -18,3 +18,8 @@ It provides real-time system information including CPU usage, memory stats, logg
 
 ```powershell
 powershell.exe -ExecutionPolicy Bypass -File .\dashboard.ps1
+
+```
+## 📷 Screenshot
+
+![System Dashboard](app_demo.png)
