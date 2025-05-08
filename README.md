@@ -17,4 +17,4 @@ It provides real-time system information including CPU usage, memory stats, logg
 ## 🚀 How to Run
 
 ```powershell
-powershell.exe -ExecutionPolicy Bypass -File .\dashboard.ps1
+powershell.exe -ExecutionPolicy Bypass -File .\systeminfodashboard.ps1
